@@ -1,0 +1,5 @@
+name: bai
+channels:
+  - defaults
+  - conda-forge
+prefix: /Users/biankaursul/opt/anaconda3/envs/bai
